@@ -1,2 +1,2 @@
-# electrifiedorlando.githubpages.io
+# electrifiedorlando
 Repository for electrified Orlando code
